@@ -18,7 +18,8 @@ analyze → Set Measurements
 You can check Area, mean gray value, integrated density, diameter etc
 
 
-<img width="762" height="692" alt="image" src="https://github.com/user-attachments/assets/718761d4-786b-4900-b3dd-6e1f3f1bf9df" />
+<img width="760" height="692" alt="image" src="https://github.com/user-attachments/assets/a35196bd-17a4-47da-b71a-51b01bc9cd0a" />
+
 
 
 
@@ -71,5 +72,6 @@ Following window with measurement will popup:
 <img width="1412" height="614" alt="image" src="https://github.com/user-attachments/assets/9b7e578c-02e0-4723-bec0-26806d389a70" />
 
 
-Data 1 is area of with outer halo, and data 2 is inner bacterial area. 
-So, exact area of halo will be: area with outer halo - area of central bacterial colony
+*** Data 1 is area of with outer halo, and data 2 is inner bacterial area. 
+So, exact area of halo will be: area with outer halo - area of central bacterial colony***
+
