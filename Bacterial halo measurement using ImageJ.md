@@ -46,3 +46,8 @@ unit of length → mm
 
 #Draw outer circle (halo edge)
 use oval tool, fit it to the outer halo boundary, Cntrl+M to measure
+
+<img width="5120" height="1805" alt="image" src="https://github.com/user-attachments/assets/c3840529-a3c1-4a4c-83d7-00438c312154" />
+
+<img width="381" height="383" alt="image" src="https://github.com/user-attachments/assets/805849c5-e00d-420f-b58b-708bc3e23112" />
+
