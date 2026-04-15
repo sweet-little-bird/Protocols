@@ -80,11 +80,26 @@ Following window with measurement will popup:
 
 
 # Use ROI manager for better workflow
+
 Draw outer halo, press Contrl+T (adds ROI)
+
 Draw inner colony, press Contrl +T
+
 In ROI manager, select both and click "Measure"
+
+
 
 <img width="1777" height="615" alt="image" src="https://github.com/user-attachments/assets/279c3f13-a613-4344-a063-6d8facf6782f" />
 
 
+# For automatic substraction
+
+In ROI manager, after selecting both and click "More" and select "XOR"
+
+You will see ring-selection on your image (both outer and inner)
+
+Now click analyze → measure or Coltrol + T
+
+
+<img width="1438" height="750" alt="image" src="https://github.com/user-attachments/assets/3cd02f54-699c-40d1-b6fd-c1f8f4d2e4ac" />
 
