@@ -26,12 +26,22 @@ File → Open → select your image
 
 #Set scale
 analyze → Set scale (for example, if the plate is 90mm, set it as 90mm)
-First, draw a line across the plate 
+
+Details:
+First, draw a line across the plate (this will fill the pixels)
 
 <img width="1305" height="642" alt="image" src="https://github.com/user-attachments/assets/2e8670ae-7664-418b-8338-c8b496391420" />
 
+Now go to analyze → Set scale
+Distance in pixels will be autofilled (eg: 500)
+Known distance → type 90 (plate diameter)
+unit of length → mm
 
 
+<img width="1310" height="646" alt="image" src="https://github.com/user-attachments/assets/6ff65b99-48cb-4efd-a865-1977578c00ee" />
+
+
+**You can check "global' checkbox if you will analyze multiple images with same setup**
 
 
 #Draw outer circle (halo edge)
