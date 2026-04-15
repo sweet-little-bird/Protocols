@@ -77,3 +77,14 @@ Following window with measurement will popup:
 ***Data 1 is area of with outer halo, and data 2 is inner bacterial area.*** 
 ***So, exact area of halo will be: area with outer halo - area of central bacterial colony***
 ***Here, area of halo is 510.6-42.6 = 468 mm2***
+
+
+# Use ROI manager for better workflow
+Draw outer halo, press Contrl+T (adds ROI)
+Draw inner colony, press Contrl +T
+In ROI manager, select both and click "Measure"
+
+<img width="1777" height="615" alt="image" src="https://github.com/user-attachments/assets/279c3f13-a613-4344-a063-6d8facf6782f" />
+
+
+
