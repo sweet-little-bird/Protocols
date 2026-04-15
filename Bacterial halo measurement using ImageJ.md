@@ -17,4 +17,7 @@ Image → Adjust → Threshold
 analyze → Set Measurements
 You can check Area, mean gray value, integrated density, diameter etc
 Than, Analyze → Measure
+# To measure halo (diameter or area)
+File → Open → select your image
+<img width="640" height="321" alt="Bacterial halo" src="https://github.com/user-attachments/assets/740edf5c-2008-410a-a338-73b826f799ce" />
 
