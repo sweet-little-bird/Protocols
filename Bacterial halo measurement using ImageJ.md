@@ -21,5 +21,6 @@ Than, Analyze → Measure
 File → Open → select your image
 
 
-<img width="640" height="321" alt="Bacterial halo" src="https://github.com/user-attachments/assets/740edf5c-2008-410a-a338-73b826f799ce" />
+<img width="422" height="447" alt="image" src="https://github.com/user-attachments/assets/4179d6d8-fd91-4ede-b9b9-6195b7438022" />
+
 
