@@ -24,3 +24,15 @@ File → Open → select your image
 <img width="422" height="447" alt="image" src="https://github.com/user-attachments/assets/4179d6d8-fd91-4ede-b9b9-6195b7438022" />
 
 
+#Set scale
+analyze → Set scale (for example, if the plate is 90mm, set it as 90mm)
+First, draw a line across the plate 
+
+<img width="1305" height="642" alt="image" src="https://github.com/user-attachments/assets/2e8670ae-7664-418b-8338-c8b496391420" />
+
+
+
+
+
+#Draw outer circle (halo edge)
+use oval tool, fit it to the outer halo boundary, Cntrl+M to measure
