@@ -16,6 +16,12 @@ Image → Adjust → Threshold
 # Analyze area or intensity or diameter
 analyze → Set Measurements
 You can check Area, mean gray value, integrated density, diameter etc
+
+
+<img width="762" height="692" alt="image" src="https://github.com/user-attachments/assets/718761d4-786b-4900-b3dd-6e1f3f1bf9df" />
+
+
+
 Than, Analyze → Measure
 # To measure halo (diameter or area)
 File → Open → select your image
@@ -50,5 +56,20 @@ use oval tool, fit it to the outer halo boundary, Cntrl+M to measure
 <img width="767" height="737" alt="image" src="https://github.com/user-attachments/assets/843b57ff-a75c-4cce-992d-dfb96390bbf5" />
 
 
+
 <img width="381" height="383" alt="image" src="https://github.com/user-attachments/assets/805849c5-e00d-420f-b58b-708bc3e23112" />
 
+
+Follow same protocol for inner circle
+
+<img width="387" height="380" alt="image" src="https://github.com/user-attachments/assets/3fb30c66-3039-421b-9b50-67ea21e762ad" />
+
+
+
+Following window with measurement will popup:
+
+<img width="1412" height="614" alt="image" src="https://github.com/user-attachments/assets/9b7e578c-02e0-4723-bec0-26806d389a70" />
+
+
+Data 1 is area of with outer halo, and data 2 is inner bacterial area. 
+So, exact area of halo will be: area with outer halo - area of central bacterial colony
