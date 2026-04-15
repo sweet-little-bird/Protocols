@@ -72,6 +72,8 @@ Following window with measurement will popup:
 <img width="1412" height="614" alt="image" src="https://github.com/user-attachments/assets/9b7e578c-02e0-4723-bec0-26806d389a70" />
 
 
-*** Data 1 is area of with outer halo, and data 2 is inner bacterial area. 
-So, exact area of halo will be: area with outer halo - area of central bacterial colony***
 
+
+***Data 1 is area of with outer halo, and data 2 is inner bacterial area.*** 
+***So, exact area of halo will be: area with outer halo - area of central bacterial colony***
+***Here, area of halo is 510.6-42.6 = 468 mm2***
