@@ -29,7 +29,7 @@ It will look like this:
 analyze → Set Measurements
 You can check Area, mean gray value, integrated density etc
 
-#Select a well (ROI)
+# Select a well (ROI) Regionof Interest
 Use Oval tool:
 Draw a circle inside one well
 Avoid edges/reflections
